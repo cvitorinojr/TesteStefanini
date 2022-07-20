@@ -70,7 +70,7 @@ function loadTable() {
 
   function showPessoaEditBox(id) {
     Swal.fire({
-      title: 'Cadastrar pessoa',
+      title: 'Editar pessoa',
       html:
         '<input id="id" type="hidden">' +
         '<input id="pnome" class="swal2-input" placeholder="Nome">' +
